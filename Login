@@ -1,0 +1,6 @@
+Acceptance Creteria
+
+1. User should be getting username and password field
+2. Username field should allow alphabetic values
+3. Password should contain more than 6 characters and it should be strong
+4. It should be accessible to all users
